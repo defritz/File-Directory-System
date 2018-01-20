@@ -19,4 +19,3 @@ Commands:
     For any directory, all of its immediate children must be unique
     The name '.' represents the cwd
     The name '..' represents the parent directory of the cwd
-d
